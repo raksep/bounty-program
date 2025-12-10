@@ -5,3 +5,4 @@ aliveStatusCodes:
 ignorePatterns:
   - pattern: '^https://stackoverflow.com/.*$'
 useGitIgnore: true
+bb
